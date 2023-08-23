@@ -29,7 +29,7 @@ Devemos utilizar a tag `<section>` sempre que tivermos um conteúdo que faz sent
 
 ## Como Acessar o Site 🌐
 
-Para visualizar o projeto, acesse [aqui](https://main--desafio-semana-02-inspiraja.netlify.app/).
+Para visualizar o projeto, acesse [aqui](https://desagio-semana-02.netlify.app/).
 
 ## Desafio Elaborado Para 📚
 
