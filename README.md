@@ -1,8 +1,8 @@
-# Desafio da Semana 2 - Trilha "Meu Primeiro Site" 🌟
+# Desafio da Semana  - Trilha "Meu Primeiro Site" 🌟
 
 ## Descrição 📜
 
-Este é um projeto desenvolvido para o Desafio da Semana 2 da trilha "Meu Primeiro Site" do Inspira Já. O desafio tem como objetivo aprimorar os conhecimentos em HTML e CSS, explorando conceitos de semântica e a relação entre as tags "pai" e "filho".
+Este é um projeto desenvolvido para o Desafio da trilha "Meu Primeiro Site" do Inspira Já. O desafio tem como objetivo aprimorar os conhecimentos em HTML e CSS, explorando conceitos de semântica e a relação entre as tags "pai" e "filho".
 
 Neste projeto, criamos um site abordando um dos temas dos Objetivos de Desenvolvimento Sustentável (ODS), mais especificamente sobre "energia renovável e seus benefícios para o meio ambiente". O site foi desenvolvido de forma responsiva, adaptando-se a diferentes tamanhos de tela para proporcionar uma experiência de usuário agradável.
 
